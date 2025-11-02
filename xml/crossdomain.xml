@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!DOCTYPE cross-domain-policy SYSTEM
+"http://www.adobe.com/xml/dtds/cross-domain-policy.dtd">
+<cross-domain-policy>
+<site-control permitted-cross-domain-policies="all"/>
+	<allow-access-from domain="*.darkorbit.com" secure="false"/> 
+	<allow-access-from domain="*.darkorbit.bigpoint.com" secure="false"/> 
+	<allow-access-from domain="*.cdn.bigpoint.net" secure="false"/> 
+	<allow-access-from domain="*.bpcdn.net" secure="false"/>
+	<allow-access-from domain="*.bpcdn.com" secure="false"/>
+	<allow-access-from domain="*.l3.cdn.bigpoint.net" secure="false"/>
+	<allow-access-from domain="*.cdn.bigpoint.com" secure="false"/> 
+	<allow-access-from domain="*.l3.cdn.bigpoint.com" secure="false"/> 
+	<allow-access-from domain="*.bigpoint.net" secure="false"/> 
+	<allow-access-from domain="*.bpsecure.com" secure="false"/> 
+<allow-http-request-headers-from domain="*" headers="*" secure="false"/>
+</cross-domain-policy>

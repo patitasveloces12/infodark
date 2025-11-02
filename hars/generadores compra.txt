@@ -1,0 +1,25 @@
+{result: "success",…}
+category
+:
+"generator"
+isShipDumpEmpty
+:
+true
+itemId
+:
+"equipment_generator_speed_g3n-1010"
+message
+:
+"Generadores comprados<br /><br />Tienes ranuras libres en tu nave. ¿Quieres equipar el objeto automáticamente o enviarlo al inventario?"
+result
+:
+"success"
+showEquipOption
+:
+true
+userBalance
+:
+{uridium: 415, credits: 309508}
+userShip
+:
+{laserAmmunitionSpace: 0, rocketSpace: 0}

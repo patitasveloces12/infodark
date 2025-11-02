@@ -1,0 +1,28 @@
+{result: "success", message: "Vehículo aéreo no tripulado comprado (Flax)", callback: "reloadPage",…}
+callback
+:
+"reloadPage"
+category
+:
+"drone"
+isShipDumpEmpty
+:
+true
+itemId
+:
+"1"
+message
+:
+"Vehículo aéreo no tripulado comprado (Flax)"
+result
+:
+"success"
+updatedPriceDiscounted
+:
+200000
+userBalance
+:
+{uridium: 415, credits: 201508}
+userShip
+:
+{laserAmmunitionSpace: 0, rocketSpace: 0}

@@ -1,0 +1,1 @@
+{result: "success", message: "Municiones láser compradas",…} category : "battery" isShipDumpEmpty : true itemId : "ammunition_laser_lcb-10" message : "Municiones láser compradas" result : "success" userBalance : {uridium: 415, credits: 311508} credits : 311508 uridium : 415 userShip : {laserAmmunitionSpace: 0, rocketSpace: 0} laserAmmunitionSpace : 0 rocketSpace : 0
